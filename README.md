@@ -2,6 +2,8 @@
 
 Top-down view survival shooter game.
 
+Gameplay review - https://www.youtube.com/watch?time_continue=1&v=MDYawVaGjVA
+
 Project use Simple and Fast Multimedia Library (SFML).
 
 Controls:
